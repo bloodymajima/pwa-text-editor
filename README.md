@@ -1,5 +1,8 @@
 # Text Editor Starter Code
 
+## Description
+A single page text editor that runs in the browser, and it can also run offline. I learned more about the node module idb, and how to deploy a webpage onto Render.
+
 ## User Story 
 AS A developer
 I WANT to create notes or code snippets with or without an internet connection
@@ -31,3 +34,10 @@ WHEN I register a service worker
 THEN I should have my static assets pre cached upon loading along with subsequent pages and static assets
 WHEN I deploy to Render
 THEN I should have proper build scripts for a webpack application
+
+## Credits 
+Classmates! 
+[Coding Boot Camp](https://coding-boot-camp.github.io/full-stack/render/render-deployment-guide)
+
+## Screenshot 
+[Screenshot](Screenshot.png)
